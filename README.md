@@ -24,7 +24,6 @@ This project demonstrates how independently deployable microservices communicate
 - Folder Structure
 - Database Design
 - REST APIs
-- API Screenshots
 - Installation
 - Running the Project
 - Service Startup Order
@@ -348,42 +347,6 @@ zipcode
 | DELETE | /address/{id} | Delete Address |
 
 ---
-
-# 📷 API Screenshots
-
-## Eureka Dashboard
-
-> Add Screenshot
-
----
-
-## API Gateway
-
-> Add Screenshot
-
----
-
-## Employee APIs
-
-> Add Screenshot
-
----
-
-## Address APIs
-
-> Add Screenshot
-
----
-
-## Authentication APIs
-
-> Add Screenshot
-
----
-
-## Postman Collection
-
-> Add Screenshot
 
 ---
 
