@@ -451,7 +451,6 @@ Java Backend Developer
 
 GitHub: https://github.com/LUVKUMAR01
 
-LinkedIn: *(Add your LinkedIn Profile)*
 
 ---
 
